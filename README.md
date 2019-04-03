@@ -2,6 +2,8 @@
 
 Flask App - Basic login
 
+Note: On my machine I have Python3.6 installed.
+
 Before you begin ensure you follow the following instructions
 
 	1. pip3 install flask
