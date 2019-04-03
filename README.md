@@ -26,7 +26,7 @@ Your first flask app:
 	app = Flask(__name__)
 
 	#Setup '/' as index
-	@app.route('/'):
+	@app.route('/')
 	def index():
 		#send string to browser
 		return 'Hello!!'
