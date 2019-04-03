@@ -37,7 +37,7 @@ Your first flask app:
 	if __name__ == "__main__":
 		app.run()
 
-Save the file as first.py and Run it
+Save the file as flask_app1.py and Run it
 
 Open an internet browser and enter the url: http://127.0.0.1:5000
 
